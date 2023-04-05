@@ -1,0 +1,10 @@
+database:
+  url: "<service_db_url>"
+  db: "singular-service-name_service"
+  timeout: 5
+
+server:
+  host: "localhost"
+  port: "8080"
+  idle_timeout: 5
+  service_name: "SERVICE_NAME
